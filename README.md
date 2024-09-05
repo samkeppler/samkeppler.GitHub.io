@@ -11,7 +11,7 @@ favor your case in jury selection. It is also helpful on the legal research leve
 allows you to create recruit quotas so that you can find a representative sample that is
 demographically matched to your jurisdiction area, which therefore strengthens the
 validity of your findings.
-## My data science book is *Genetic Algorithms and Evolutionary Computation* by Adam Marczyk ## 
+## My data science book is *Genetic Algorithms and Evolutionary Computation* by Adam Marczyk. ## 
 The book was published by The TalkOrigins Archive in 2004. ## This book caught my eye because I
 dabbled in evolutionary psychology during my undergrad and I was fascinated about how
 deeply mathematical the field can be. The title itself also fascinates me because it seems
